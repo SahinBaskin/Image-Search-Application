@@ -18,19 +18,14 @@ Image Search Application is a simple and responsive web application that allows 
 ## 🚀 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/image-search-app.git
+   https://github.com/SahinBaskin/Image-Search-Application.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd image-search-app
+   cd ResimBulma
    ```
 3. Open `index.html` in your browser.
 
-## 📸 Screenshots
-_Add screenshots or a demo link here._
-
-## 📜 License
-This project is licensed under the MIT License.
 
 ## 🤝 Contributions
 Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repo and submit a pull request.
